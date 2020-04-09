@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{9D719010-59D3-4665-ACEA-185341FFF6A7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BookListRazor/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookListRazor/appsettings.json">
     <Files>
       <File FileName="BookListRazor/Pages/Index.cshtml" Line="11" Column="1" />
       <File FileName="BookListRazor/Pages/Index.cshtml.cs" Line="17" Column="29" />
@@ -8,7 +8,8 @@
       <File FileName="BookListRazor/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" Line="12" Column="14" />
       <File FileName="BookListRazor/Pages/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
       <File FileName="BookListRazor/Pages/Shared/_Layout.cshtml" Line="28" Column="23" />
-      <File FileName="BookListRazor/Startup.cs" Line="43" Column="39" />
+      <File FileName="BookListRazor/Startup.cs" Line="56" Column="42" />
+      <File FileName="BookListRazor/appsettings.json" Line="1" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,7 +19,7 @@
               <Node name="Pages" expanded="True">
                 <Node name="Shared" expanded="True" />
               </Node>
-              <Node name="Startup.cs" selected="True" />
+              <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
         </State>
