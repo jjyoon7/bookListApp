@@ -40,6 +40,9 @@ namespace BookListRazor
                 app.UseHsts();
             }
 
+            //these are all middlewares plugged into the pipeline when the request to the server happens.
+            //it is important to remember the order, "Auth -> MVC -> Static files"
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
